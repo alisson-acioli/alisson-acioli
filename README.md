@@ -34,6 +34,7 @@
 <b>Cloud & Hosting</b><br />
 ![Amazon AWS](https://img.shields.io/badge/-Amazon%20AWS-000?&logo=amazon-aws)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000?&logo=Google%20Cloud)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=Cloudflare)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)
 ![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=NGINX)
 ![cPanel](https://img.shields.io/badge/-cPanel-000?&logo=cPanel)
