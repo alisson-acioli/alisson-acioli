@@ -18,6 +18,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-Typescript-000?&logo=Typescript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js)
 ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
